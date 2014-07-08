@@ -1,0 +1,6 @@
+rootProject.name = 'coursera-algorithms1'
+include 'assignment1'
+include 'assignment2'
+
+include 'assignment3'
+
